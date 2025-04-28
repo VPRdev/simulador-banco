@@ -40,6 +40,5 @@ Este projeto é um **simulador de operações bancárias** simples feito em **Ja
 
 ## Tela de exemplo:
 ![Simulador de Banco](https://github.com/user-attachments/assets/23dda2f4-3a5c-43db-a3f4-233d366d6b6d)
-![Simulador de Banco](https://github.com/user-attachments/assets/bef35dae-b3f0-4fb6-b5fe-6f94ddc98423)
 
    
